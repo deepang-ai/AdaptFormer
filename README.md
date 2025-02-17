@@ -3,7 +3,7 @@
 [![huggingface weights](https://img.shields.io/badge/%F0%9F%A4%97%20Weights-deepang/adaptformer-yellow)](https://huggingface.co/deepang/adaptformer-LEVIR-CD)&nbsp;
 
 
-> 🎉 This work is accepted by [IEEE Transactions on Instrumentation and Measurement](https://ieeexplore.ieee.org/document/10497147)
+> 🎉 This work is published in [IEEE Transactions on Instrumentation and Measurement](https://ieeexplore.ieee.org/document/10497147)
 
 We provide [demo.ipynb](./demo.ipynb) for you to see more technical details about AdaptFormer.
 
